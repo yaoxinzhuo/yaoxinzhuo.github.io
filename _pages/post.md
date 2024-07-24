@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /post/
 ---
-The website is still under constructing.
+The website is still under construction.
