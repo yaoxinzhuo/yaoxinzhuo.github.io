@@ -1,9 +1,7 @@
 ---
+layout: archive
 permalink: /about/
-title: "About me"
+title: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 The website is still under construction.
