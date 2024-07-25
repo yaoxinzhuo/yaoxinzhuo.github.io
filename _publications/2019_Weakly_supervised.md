@@ -6,6 +6,6 @@ excerpt: 'Many approaches to semantic image hashing have been formulated as supe
 date: 2019
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition'
 paperurl: 'http://academicpages.github.io/files/2019_Weakly_supervised.pdf'
-citation: 'Gattupalli, V., Zhuo, Y., & Li, B. (2019). &quot;Weakly supervised deep image hashing through tag embeddings.&quot; <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition .</i>. (pp. 10375-10384)'
+citation: 'Gattupalli, V., Zhuo, Y., & Li, B. (2019). &quot;Weakly supervised deep image hashing through tag embeddings.&quot; <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. (pp. 10375-10384)'
 ---
 
