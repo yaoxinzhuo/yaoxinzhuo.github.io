@@ -20,17 +20,17 @@ Work experience
 * May 2023 - Dec 2023: Computer Vision Intern
   * Zillow Group
   * Task: Open-Vocabulary Semantic Segmentation
-  * Supervisor: Dr.Zach Bessinger
+  * Supervisor: Dr. Zach Bessinger
 
 * May 2022 - Aug 2022: Research Intern
   * OPPO US Research Center
   * Task: Instance Segmentation
-  * Supervisor: Dr.Jinglin Shen
+  * Supervisor: Dr. Jinglin Shen
 
 * May 2021 - Aug 2021: Research Intern
   * OPPO US Research Center
   * Task: Cross-Modal Retrieval
-  * Supervisor: Dr.Jenhao Hsiao
+  * Supervisor: Dr. Jenhao Hsiao
   
 Skills
 ======
