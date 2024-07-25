@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Arizona State University, 2024
+* B.S. in Computer Science, Hangzhou Dianzi University, 2018
+  * Undergraduate Exchange Student in Computer Science, University of California, Riverside, 2017-2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2023 - Dec 2023: Computer Vision Intern
+  * Zillow Group
+  * Task: Open-Vocabulary Semantic Segmentation
+  * Supervisor: Dr.Zach Bessinger
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2022 - Aug 2022: Research Intern
+  * OPPO US Research Center
+  * Task: Instance Segmentation
+  * Supervisor: Dr.Jinglin Shen
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2021 - Aug 2021: Research Intern
+  * OPPO US Research Center
+  * Task: Cross-Modal Retrieval
+  * Supervisor: Dr.Jenhao Hsiao
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:
+  * Python, Matlab, C, C++, Java, LaTex
+* Frameworks:
+  * PyTorch, OpenCV, Detectron2, Matplotlib, NumPy, SciPy, Pandas, Scikit-Learn
 
 Publications
 ======
@@ -47,18 +45,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
+Services
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  * European Conference on Computer Vision (ECCV)
+  * IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  * International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
+  * IEEE Transactions on Image Processing (TIP)
+  * ACM Transactions on Intelligent Systems and Technology (TIST)
+  * Expert Systems With Applications (ESWA)
+  * International Conference on Pattern Recognition (ICPR)
