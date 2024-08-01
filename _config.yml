@@ -24,10 +24,7 @@ author:
   avatar           : "picture.png"
   name             : "Yaoxin Zhuo"
   pronouns         : # example: "she/her"  
-  bio              : >
-                    Computer Vision.
-                    Deep Learning.
-                    Vision-and-Language Model.
+  bio              : "Vision-and-Language Model.<br>Computer Vision"
   location         : "Tempe, AZ"
   employer         : #"Red Brick University"
   uri              : # URL
