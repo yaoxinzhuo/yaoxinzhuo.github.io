@@ -4,4 +4,4 @@ permalink: /about/
 title: "About"
 author_profile: true
 ---
-The website is still under construction.
+My research interests include Computer Vision, Deep Learning, Vision-and-Language Models.
