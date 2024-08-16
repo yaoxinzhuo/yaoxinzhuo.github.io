@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "About me"
+title: "Yaoxin Zhuo"
 permalink: /
 author_profile: true
 redirect_from:
   - /post/
 ---
-The website is still under construction.
+My research interests include Computer Vision, Deep Learning, Vision-and-Language Models.
