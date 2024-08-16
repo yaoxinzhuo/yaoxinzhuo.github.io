@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /post/
 ---
-My research interests include Computer Vision, Deep Learning, Vision-and-Language Models.
+My research interests include Computer Vision, Deep Learning, and Vision-and-Language Models.
