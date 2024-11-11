@@ -51,9 +51,15 @@ Services
 * Reviewer
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   * European Conference on Computer Vision (ECCV)
+  * International Conference on Learning Representations (ICLR)
+  * Association for the Advancement of Artificial Intelligence (AAAI)
   * IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
-  * International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
+  * International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
   * IEEE Transactions on Image Processing (TIP)
   * ACM Transactions on Intelligent Systems and Technology (TIST)
   * Expert Systems With Applications (ESWA)
   * International Conference on Pattern Recognition (ICPR)
+  * Knowledge and Information Systems (KAIS)
+  * Scientific Reports
+  * The Visual Computer
+  * Journal of Intelligent Information Systems
