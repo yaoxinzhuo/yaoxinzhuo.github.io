@@ -6,4 +6,5 @@ author_profile: true
 redirect_from:
   - /post/
 ---
-My research interests include Computer Vision, Deep Learning, and Vision-and-Language Models.
+I am a Machine Learning Software Engineer at Google.
+My research interests include Computer Vision, Multi-Modal, Cross-Modal Retrieval, Vision-and-Language Models.
