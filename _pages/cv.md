@@ -62,4 +62,5 @@ Services
   * Knowledge and Information Systems (KAIS)
   * Scientific Reports
   * The Visual Computer
-  * Journal of Intelligent Information Systems
+  * International Journal of Intelligent Information Systems
+  * Multimedia System
