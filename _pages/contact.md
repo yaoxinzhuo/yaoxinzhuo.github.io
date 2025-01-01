@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-yaoxin.zhuo at asu dot edu
+yaoxin dot zhuo at asu dot edu
