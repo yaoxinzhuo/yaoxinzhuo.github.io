@@ -64,3 +64,4 @@ Services
   * The Visual Computer
   * International Journal of Intelligent Information Systems
   * Multimedia System
+  * Data Mining and Knowledge Discovery
