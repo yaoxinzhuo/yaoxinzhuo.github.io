@@ -51,6 +51,7 @@ Services
 * Reviewer
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   * European Conference on Computer Vision (ECCV)
+  * International Conference on Computer Vision (ICCV)
   * International Conference on Learning Representations (ICLR)
   * Association for the Advancement of Artificial Intelligence (AAAI)
   * IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
